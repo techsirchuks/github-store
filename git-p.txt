@@ -1,0 +1,8 @@
+I want to use this store as a place to keep my cli commands.
+
+How to login to CLI
+
+az login --use-device-code
+az group create --name cli-practice-RG --location eastus
+
+Then if you're using venv on Kali, run source ~/.az-venv/bin/activate 
